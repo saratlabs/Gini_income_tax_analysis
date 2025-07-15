@@ -1,0 +1,10 @@
+Intercept: 0.5414
+
+            Feature  Coefficient
+           Tax_Rate    -0.004104
+      Country_India     0.069215
+Country_Netherlands    -0.000363
+     Country_Sweden     0.057106
+
+R² Score: 0.8060
+RMSE: 0.0266
