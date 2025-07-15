@@ -1,1 +1,0 @@
-# Gini_income_tax_analysis
